@@ -1,0 +1,26 @@
+area,site,port,date,type,sample1,sample2,sample3,sample4,sample5,sample6,da_ppm_avg,percent_over
+A,George Reef,Crescent City,9/29/21,Dungeness,<2.5,<2.5,<2.5,2.6,<2.5,<2.5,0.4,0%
+A,Klamath River,Crescent City,9/29/21,Dungeness,5.1,<2.5,<2.5,7.7,<2.5,3.1,2.7,0%
+B,Lagoons,Trinidad,9/21/21,Dungeness,<2.5,<2.5,<2.5,<2.5,<2.5,NA,Non-Detect,0%
+B,Lagoons,Trinidad,10/7/21,Dungeness,3.1,3.4,<2.5,2.5,3.2,<2.5,2,0%
+B,Trinidad Head,Trinidad,9/21/21,Dungeness,<2.5,<2.5,<2.5,<2.5,<2.5,<2.5,Non-Detect,0%
+B,LP Eureka,Eureka,9/30/21,Dungeness,<2.5,<2.5,<2.5,<2.5,<2.5,7.8,1.3,0%
+B,Eel River,Eureka,9/30/21,Dungeness,3.4,<2.5,<2.5,<2.5,<2.5,2.6,1,0%
+C,Usal,Fort Bragg,10/17/21,Dungeness,<2.5,2.7,4.8,<2.5,<2.5,5.2,2.1,0%
+D,Manchester Beach,Fort Bragg,10/9/21,Dungeness,<2.5,<2.5,4,<2.5,<2.5,<2.5,0.7,0%
+E,Salt Point,Bodega Bay,10/2/21,Dungeness,<2.5,5,<2.5,<2.5,<2.5,5.4,1.7,0%
+E,Russian River,Bodega Bay,10/2/21,Dungeness,<2.5,<2.5,<2.5,36,<2.5,2.5,6.4,17%
+E,Russian River,Bodega Bay,10/17/21,Dungeness,<2.5,5.9,<2.5,<2.5,<2.5,17,3.8,0%
+E,Russian River,Bodega Bay,10/31/21,Dungeness,54,<2.5,<2.5,<2.5,<2.5,33,14.5,33%
+E,Russian River,Bodega Bay,11/11/21,Dungeness,<2.5,7.6,3.7,<2.5,<2.5,<2.5,1.9,0%
+E,Russian River,Bodega Bay,11/18/21,Dungeness,<2.5,<2.5,<2.5,5.7,5.7,2.9,2.4,0%
+E,Bodega Head,Bodega Bay,10/2/21,Dungeness,12,6.3,9.6,<2.5,<2.5,<2.5,4.7,0%
+E,Point Reyes,Bodega Bay,10/2/21,Dungeness,<2.5,<2.5,<2.5,<2.5,<2.5,<2.5,Non-Detect,0%
+F,Duxbury Reef,Half Moon Bay/San Francisco,10/5/21,Dungeness,<2.5,<2.5,<2.5,<2.5,<2.5,<2.5,Non-Detect,0%
+F,Pillar Point,Half Moon Bay/San Francisco,9/27/21,Dungeness,<2.5,<2.5,<2.5,<2.5,<2.5,<2.5,Non-Detect,0%
+F,Pigeon Point,Half Moon Bay/San Francisco,9/27/21,Dungeness,<2.5,<2.5,<2.5,<2.5,<2.5,<2.5,Non-Detect,0%
+G,Monterey Bay,Monterey,9/21/21,Dungeness,37,<2.5,21,<2.5,<2.5,<2.5,9.7,17%
+G,Monterey Bay,Monterey,10/8/21,Dungeness,<2.5,<2.5,<2.5,<2.5,<2.5,<2.5,Non-Detect,0%
+G,Monterey Bay,Monterey,10/15/21,Dungeness,<2.5,<2.5,<2.5,<2.5,6.4,<2.5,1.1,0%
+G,Monterey Bay,Monterey,9/18/21,Rock,7.4,9.7,<2.5,<2.5,<2.5,<2.5,2.9,0%
+H,Avila Beach,Morro Bay,10/19/21,Dungeness,<2.5,<2.5,<2.5,<2.5,<2.5,<2.5,Non-Detect,0%
