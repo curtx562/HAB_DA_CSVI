@@ -133,12 +133,10 @@ Data Sources
 Tools:
 
 Python to manage the various data sets:
- --> Libraries used: os, pandas, geopandas, xarray
+ --> Libraries used: os, pandas, geopandas, xarray, arcpy
  
 ArcGIS Pro to produce map products
- --> 1. To produce the map, the raster representing Algal Bloom frequencies was imported into ArcGIS Pro
- --> 2. The Extract by Mask tool was used to extract from the raster in Step 1 the ocean areas outside the USA Boundary
- --> 3. The shapefiles containing County Fishing Dependency and Domoic Acid Event frequency were imported     
+ --> Import the two shapefiles and TIF in the "For-ArcGIS" folder into ArcGIS Pro   
 -------------------------------------------
 
 Directories
